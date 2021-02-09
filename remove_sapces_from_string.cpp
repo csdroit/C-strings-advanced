@@ -17,3 +17,7 @@ int main() {
     cout << output;
     return 0;
 }
+/* 
+Input : i love c++
+Output : ilovec++
+*/
