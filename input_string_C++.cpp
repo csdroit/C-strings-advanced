@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
     string myString; //defining a variable string with myString
+    cout << "Enter a string : "; 
     getline(cin, myString); // input a line 
     cout << myString << endl; // print the myString variable
     return 0;
